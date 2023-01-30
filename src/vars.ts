@@ -1,0 +1,8 @@
+export default {
+    // http request status 
+    CBAD_REQUEST: 400,
+    CUNAUTHENTICATED_USER: 401,
+    CUNAUTHORIZED_ACCESS: 403,
+    CRESOURCE_NOT_FOUND: 404,
+    CINTERNAL_SERVER_ERROR: 500,
+}
